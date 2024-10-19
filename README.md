@@ -18,8 +18,8 @@ Welcome to my GitHub! I’m a passionate developer who loves creating dynamic an
 
 ### 📫 How to Reach Me
 -Facebook: [facebook.com/momen.stareye](https://www.facebook.com/momen.stareye)
-- LinkedIn: [linkedin.com/in/momen-uddin](https://www.linkedin.com)
-- Twitter: [twitter.com/momen_uddin](https://twitter.com)
+- LinkedIn: [linkedin.com/in/momen-uddin](https://www.linkedin.com/in/momen-uddin)
+- Twitter: [twitter.com/momen_uddin](https://twitter.com/momenstareye)
 - Email: momen4@dti.ac
 
 ### 🔥 Fun Fact
