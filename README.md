@@ -25,4 +25,8 @@ Welcome to my GitHub! I’m a passionate developer who loves creating dynamic an
 ### 🔥 Fun Fact
 When I'm not coding, you'll find me experimenting with new gadgets or reading about the latest in tech trends.
 
+---
+
+### 🌟 "The only way to do great work is to love what you do." – Steve Jobs
+
 Thanks for stopping by! Feel free to explore my projects and don't hesitate to reach out.
