@@ -46,14 +46,15 @@ Welcome to my GitHub! I’m a passionate developer who loves creating dynamic an
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=momen-uddin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=momen-uddin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🔥 Fun Fact
 When I'm not coding, you'll find me experimenting with new gadgets or reading about the latest in tech trends.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
